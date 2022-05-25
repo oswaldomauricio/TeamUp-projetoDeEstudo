@@ -10,4 +10,4 @@ https://www.figma.com/file/KYpJiVpezSrGJuXGwZ1EHq/TeamUp-Community
 
 ## DESAFIOS
 
-Nesse projeto, tentei melhorar minha estrutura em HTML e Css, e comecei a adicionar o javaScript aos projetos.
+Nesse projeto, tentei melhorar minha estrutura em HTML e CSS, e comecei a adicionar o javaScript aos projetos.
